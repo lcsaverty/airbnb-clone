@@ -1,70 +1,79 @@
+# Airbnb Clone
+
+A brief description of the project: Mention that this is a React-based Airbnb clone developed during your bootcamp at Le Wagon. Explain the purpose of the application and its main features.
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Demo](#demo)
+3. [Technologies Used](#technologies-used)
+4. [Installation and Setup](#installation-and-setup)
+5. [Usage](#usage)
+6. [Contribution Guidelines](#contribution-guidelines)
+7. [License](#license)
+
+## Features
+
+Describe the main features of your application, such as:
+
+- User authentication (sign-up, login, logout)
+- Browsing and searching for listings
+- Booking functionality with a calendar
+- Host management (add, edit, delete listings)
+- User profiles and reviews
+- Responsive design
+
+## Demo
+
+Include a demo of your application, such as screenshots, GIFs, or a link to a live version hosted on a platform like Netlify, Vercel, or Heroku.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Technologies Used
 
-In the project directory, you can run:
+List the main technologies and libraries you used for this project, such as:
 
-### `npm start`
+- React
+- Redux
+- React Router
+- Styled-components
+- Axios
+- Firebase (if you used it for authentication and/or database)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation and Setup
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Provide step-by-step instructions on how to set up the project locally:
 
-### `npm test`
+1. Clone the repository
+2. Install dependencies
+3. Set up environment variables
+4. Start the development server
+5. Access the application in a web browser
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
 
-### `npm run build`
+Explain how users can interact with your application, including:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- How to sign up and log in
+- How to search for listings
+- How to book a listing
+- How to manage user profiles and leave reviews
+- How to manage listings as a host
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contribution Guidelines
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Outline the process for contributors who want to help improve your project:
 
-### `npm run eject`
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to the branch
+5. Create a pull request
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You may also want to include a code of conduct and a template for pull requests.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Include information about the project's license, if applicable (e.g., MIT License). You can use a website like choosealicense.com to help you pick an appropriate license for your project.
