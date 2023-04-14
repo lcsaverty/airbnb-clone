@@ -1,15 +1,22 @@
 .flat {
+  flex-basis: calc(40% - 20px);
+  margin: 10px;
+  cursor: pointer;
   background-color: #fff;
   border-radius: 5px;
   box-shadow: 0 0 11px rgba(33,33,33,.2);
-  margin-bottom: 1rem;
-  padding: 1rem;
+  padding: 25px;
 }
 
 .flat-picture {
-  height: 200px;
+  height: 180px;
+  background-size: cover;
 }
 
 .flat-title {
   margin-top: 10px;
 }
+
+/* .flat:hover {
+  opacity: 0.9;
+} */
