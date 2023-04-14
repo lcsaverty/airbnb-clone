@@ -1,11 +1,15 @@
-.flat{
-
+.flat {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
+  margin-bottom: 1rem;
+  padding: 1rem;
 }
 
-.flat-picture{
+.flat-picture {
   height: 200px;
 }
 
-.flat-title{
-
+.flat-title {
+  margin-top: 10px;
 }
