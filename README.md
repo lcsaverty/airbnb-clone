@@ -27,7 +27,7 @@ Describe the main features of your application, such as:
 
 Include a demo of your application, such as screenshots, GIFs, or a link to a live version hosted on a platform like Netlify, Vercel, or Heroku.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
