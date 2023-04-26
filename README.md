@@ -56,30 +56,30 @@ List the main technologies and libraries you used for this project, such as:
 
 Provide step-by-step instructions on how to set up the project locally:
 
-1. *Install Node.js and npm*: To run the project, you need Node.js and npm (Node Package Manager) installed on your computer. You can download Node.js from the official website: https://nodejs.org/. npm is included with Node.js.
+**1. Install Node.js and npm:** To run the project, you need Node.js and npm (Node Package Manager) installed on your computer. You can download Node.js from the official website: https://nodejs.org/. npm is included with Node.js.
 
-2. *Clone the repository:* Clone the project repository to your local machine using Git. Open a terminal or command prompt and run the following command:
+**2. Clone the repository:** Clone the project repository to your local machine using Git. Open a terminal or command prompt and run the following command:
 
 git clone <repository_url>
 Replace <repository_url> with the URL of your project repository.
 
-3. **Navigate to the project directory: Change your current working directory to the project folder:
+**3. Navigate to the project directory:** Change your current working directory to the project folder:
 cd <project_folder>
 Replace <project_folder> with the name of your project folder.
 
-4. **Install dependencies: Install the required project dependencies by running the following command:
+**4. Install dependencies:** Install the required project dependencies by running the following command:
 npm install
 This command reads the package.json file in the project directory and installs the listed dependencies.
 
-5. **Start the development server: Run the following command to start the local development server:
+**5. Start the development server:** Run the following command to start the local development server:
 npm start
 This command starts the React development server, which automatically opens the project in your default web browser.
 
-6. **View the project: You should now be able to view the project running at http://localhost:3000 or another available port in your web browser.
+**6. View the project:** You should now be able to view the project running at http://localhost:3000 or another available port in your web browser.
 
-7. **Make changes: You can now make changes to the project files using your preferred code editor. The development server will automatically reload the browser when you save any changes.
+**7. Make changes:** You can now make changes to the project files using your preferred code editor. The development server will automatically reload the browser when you save any changes.
 
-8. **Stop the development server: To stop the development server, press Ctrl + C in the terminal or command prompt where the server is running.
+**8. Stop the development server:** To stop the development server, press Ctrl + C in the terminal or command prompt where the server is running.
 
 Remember to always follow the best practices and guidelines for the technologies and libraries used in the project. Happy coding!
 
