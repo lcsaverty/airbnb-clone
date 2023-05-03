@@ -1,6 +1,6 @@
 # Airbnb Clone
 
-A brief description of the project: Mention that this is a React-based Airbnb clone developed during your bootcamp at Le Wagon. Explain the purpose of the application and its main features.
+The project is a React-based Airbnb clone that was developed after a bootcamp at Le Wagon. The purpose of the application is to provide users with a platform to search for and book short-term rentals, similar to the popular website Airbnb.
 
 ## Table of Contents
 
@@ -94,6 +94,12 @@ Explain how users can interact with your application, including:
   - Select a flat: Users can click on a flat in the list, and the map will automatically pan to the corresponding marker. The popup for the selected flat will open, displaying its information.
 
   - Interact with map: Users can interact with the map to zoom in and out or pan around to explore the different flat locations. They can also click on the markers directly to open the popups with the flat's information.
+
+## Next Features to develop 
+
+The next features of the application will include a search function where users can input their desired location and dates to find available listings. The application will also allows users to view detailed information about each listing, including photos, amenities, and pricing. Users can create an account, save listings to their favorites, and book a rental directly through the platform.
+
+Overall, the goal of the project will be to provide users with a seamless and user-friendly experience when searching for and booking short-term rentals, similar to the experience offered by Airbnb.
 
 ## License
 
